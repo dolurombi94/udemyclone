@@ -1,0 +1,237 @@
+body{
+    max-width: 100%;
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    text-decoration: none;
+}
+.nav-control{
+    display: flex;
+    max-width: 100%;
+    padding: 0px 24px;
+    
+}
+.categories-control{
+    margin-left: 17px;
+    margin-bottom: px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-top: 25px;
+}
+.categories-control a{
+    text-decoration: none;
+    color: black;
+}
+.search-control{
+    margin-left: 20px;width: 450px;
+    height: 43px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+.search{
+    position: relative;
+    right: 450px;
+}
+.logo-control{
+    margin-top: 14px;
+    margin-left: 14px;
+}
+.udemy-control{
+    margin-left: 8px;
+    margin-bottom: px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-top: 25px;
+}
+.teach{
+    margin-left: 25px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-top: 25px;
+    text-decoration: none;
+}
+.bigimg{
+    padding-top: 10px;
+}
+.cart-contol{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.first-button{
+    margin: 5px;
+    padding: 10px 15px;
+    font-weight: bolder;
+}
+.second-button{
+    margin: 5px;
+    padding: 10px 15px;
+    font-weight:bolder ;
+    color: #fff;
+    background-color: black;
+}
+.signup-control{
+    margin-left: 5px;
+
+}
+.login-control{
+    margin-left: 10px;
+}
+.text-control{
+    border: 1px #fff solid;
+    padding: 24px;
+    width: 30%;
+    text-align: left;
+    margin-top: -320px;
+    margin-left: 100px;
+    background-color: #fff;
+    position: relative;
+    z-index: 2;
+    height: 130px;
+}
+.firsth1-control{
+    background-color: #fff;
+    font-size: 24px;
+}
+.text2-control h1{
+    margin-top: 170px;
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 600;
+    font-size: 2.1rem;
+    line-height: 1.35;
+    letter-spacing: -.02rem;
+    padding-left: 20px;
+}
+.list-control{
+    display: flex;
+    list-style-type: none;
+    margin-left: 15px;
+}
+.list-control a{
+    text-decoration: none;
+    font-weight: 800;
+    color: gray;
+    margin-right: 10px;
+
+}
+.list-control a:hover{
+    color: black;
+}
+.text3-control{
+    border: 1px black solid;
+    padding: 20px 20px;
+    width: 94%;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.programming-section{
+    display: flex;
+    margin-top: 20px;
+}
+.h42{
+    width: 250px;
+    margin-left: 20px;
+}
+s{
+    color: gray;
+    font-size: 12px;
+}
+.section3-control{
+    margin-right: 25px;
+}
+
+.checked{
+    color: orange;
+
+}
+.mid{
+    margin-left: 22px;
+}
+.mid2{
+    margin-left: 20px;
+}
+.slimdisplay{
+    display: flex;
+    border: 1px solid transparent;
+    margin-top: 60px;
+    background-color: #f7f9fa;
+    padding-bottom:10px ;
+}
+.slimdisplay1{
+    display: flex;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+.slimdisplay2{
+    display: flex;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 16px;
+    width: 300px;
+}
+.slimdisplay3{
+    display: flex;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 16px;
+    width: 350px;
+    margin-left: 100px;
+}
+.student-control{
+    padding-top: 40px;
+}
+.programming-subjects{
+    display: flex;
+}
+.mainprogramming-subjects{
+    border: 1px solid transparent;
+    padding-top: 30px;
+    padding-left: 20px;
+    margin-top: 70px;
+    padding-bottom: 30px;
+    background-color: #f7f9fa;
+    max-width: 100%;
+}
+.programming-subjects1 a{
+    color: blue;
+}
+.programming-subjects1 p{
+    font-size: 13px;
+    color: gray;
+    padding-bottom: 20px;
+}
+.programming-subjects2 {
+    margin-left:150px ;
+}
+.programming-subjects2 a{
+    color: blue;
+}
+.programming-subjects2 p{
+    font-size: 13px;
+    color: gray;
+    padding-bottom: 20px;
+}
+.programming-subjects3 {
+    margin-left:150px ;
+}
+.programming-subjects3 a{
+    color: blue;
+}
+.programming-subjects3 p{
+    font-size: 13px;
+    color: gray;
+    padding-bottom: 20px;
+}
+.programming-subjects4 {
+    margin-left:150px ;
+}
+.programming-subjects4 a{
+    color: blue;
+}
+.programming-subjects4 p{
+    font-size: 13px;
+    color: gray;
+    padding-bottom: 20px;
+}
